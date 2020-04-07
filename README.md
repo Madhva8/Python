@@ -1,2 +1,2 @@
 # Python
-Practising Python, Just for fun.
+Practising Python programming, Just to improve my skills and just for fun. ;) 
