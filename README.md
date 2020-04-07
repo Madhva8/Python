@@ -1,2 +1,2 @@
 # Python
-Python practise 
+Practising Python, Just for fun.
